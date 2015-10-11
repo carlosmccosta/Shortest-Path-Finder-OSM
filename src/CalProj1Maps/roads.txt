@@ -1,0 +1,23 @@
+4259341;;False
+4259345;;False
+13798158;;False
+29036509;;False
+29036511;;False
+35078500;R. Dr. Manuel Pereira da Silva;False
+35078501;Rua do Dr. Manuel Laranjeira;False
+35105021;;False
+35105022;R. Actor Ferreira da Silva;False
+35145272;;False
+35145521;Rua Doutor Roberto Frias;False
+35997812;Rua do Mondego;False
+37141982;;False
+37141983;Rua Actor Eduardo Brazão;False
+37141984;Rua do Vouga;False
+37141985;Rua do Corgo;False
+37937529;;False
+37937530;;False
+37937531;;False
+37937532;;False
+37937534;;False
+37937535;;False
+37937536;;False

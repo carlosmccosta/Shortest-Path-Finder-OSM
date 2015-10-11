@@ -1,0 +1,54 @@
+4257028;;False
+4259341;;False
+4259343;;False
+4259344;;False
+4259345;;False
+4306660;;False
+4306661;;False
+9223616;;False
+13798158;;False
+13798192;;False
+13798272;;False
+13798291;;False
+13798575;;False
+29035144;;False
+29036508;;False
+29036509;;False
+29036510;;False
+29036511;;False
+29036512;;False
+29036513;;False
+34777927;;False
+35078500;R. Dr. Manuel Pereira da Silva;False
+35078501;Rua do Dr. Manuel Laranjeira;False
+35105021;;False
+35105022;R. Actor Ferreira da Silva;False
+35145152;;True
+35145272;;False
+35145521;Rua Doutor Roberto Frias;False
+35145522;;False
+35997812;Rua do Mondego;False
+37141967;;False
+37141968;;False
+37141973;;False
+37141974;;False
+37141982;;False
+37141983;Rua Actor Eduardo Brazão;False
+37141984;Rua do Vouga;False
+37141985;Rua do Corgo;False
+37142499;;False
+37142500;;False
+37142501;;False
+37142502;;False
+37338732;;False
+37338733;;False
+37856823;;False
+37937529;;False
+37937530;;False
+37937531;;False
+37937532;;False
+37937534;;False
+37937535;;False
+37937536;;False
+41380172;;False
+41380173;;False
