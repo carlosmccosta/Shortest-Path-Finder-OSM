@@ -19,6 +19,6 @@ Figure 2: Main menu
 Figure 3: Street search
 
 
-![Roadmap graph (cyan -> start of path, yellow -> path nodes, blue -> end of path)](docs/Roadmap graph.png "Roadmap graph (cyan -> start of path, yellow -> path nodes, blue -> end of path)")
+![Roadmap graph (cyan -> start of path, yellow -> path nodes, blue -> end of path)](docs/Roadmap-graph.png "Roadmap graph (cyan -> start of path, yellow -> path nodes, blue -> end of path)")
 
 Figure 4: Roadmap graph (cyan -> start of path, yellow -> path nodes, blue -> end of path)
